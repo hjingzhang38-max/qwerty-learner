@@ -1343,6 +1343,15 @@ const internationalExam: DictionaryResource[] = [
     languageCategory: 'en',
   },
   {
+    "id": "ielts-listening",
+    "name": "雅思听力词汇",
+    "description": "雅思听力词汇",
+    "category": "国际考试",
+    "url": "/dicts/ielts1.json",
+    "length": 265,
+    "language": "en",
+  },
+  {
     id: 'ket',
     name: 'KET',
     description: 'KET 2021单词',
